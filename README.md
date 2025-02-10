@@ -7,15 +7,15 @@
 </p>
 
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me **codeofsalam@gmail.com**
+- 📫 How to reach me **salamjillani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulsalamshah/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulsalamshah/" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/salamjillani/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salamjillan/" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@abdulsalamshah" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulsalamshah" height="30" width="40" />
+  <a href="https://medium.com/@salamjillani" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salamjillani" height="30" width="40" />
   </a>
 </p>
 
