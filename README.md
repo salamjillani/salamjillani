@@ -1,11 +1,12 @@
 <div align="center">
-  
-![MasterHead](https://raw.githubusercontent.com/imuhammadosama/imuhammadosama/main/assets/header.gif)
-
-# Hello World 👋 I'm Abdul Salam
+Show Image
+Hello World 👋 I'm Abdul Salam
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+Coder;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salamjillani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salamjillani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
