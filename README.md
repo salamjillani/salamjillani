@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=codesofsalam&label=Profile%20views&color=0e75b6&style=flat" alt="codesofsalam" /> 
+  <img src="https://komarev.com/ghpvc/?username=salamjillani&label=Profile%20views&color=0e75b6&style=flat" alt="salamjillani" /> 
 </p>
 
 - 💬 Ask me about **Full Stack Development**
@@ -85,9 +85,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesofsalam&show_icons=true&locale=en&layout=compact" alt="codesofsalam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salamjillani&show_icons=true&locale=en&layout=compact" alt="salamjillani" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesofsalam&" alt="codesofsalam" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salamjillani&" alt="salamjillani" />
 </p>
