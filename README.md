@@ -18,9 +18,8 @@ Passionate Full Stack Developer crafting digital experiences that make a differe
 
 ## 🔭 Current Endeavors
 
-- 🔭 Working on **Full Stack Development Projects**
-- 🌱 Exploring **AI/ML**
 - 💬 Ask me about **Full Stack Development**
+- 🌱 Exploring **AI/ML**
 - 📫 Reach me at **salamjillani@gmail.com**
 
 ## 🛠️ Tech Stack
